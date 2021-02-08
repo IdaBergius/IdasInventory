@@ -1,8 +1,6 @@
 ﻿using Inventory.Core;
-using Inventory.Core.Entities;
 using System;
-using System.Linq;
-using System.Text.RegularExpressions;
+
 
 namespace Inventory.ConsoleApp
 {
